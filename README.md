@@ -7,12 +7,6 @@ PHPCoinAddress is intended to be easy to integrate into other PHP projects.
 
 Version 0.2.0.pre
 
-* Info: https://github.com/zamgo/PHPCoinAddress
-* Download ZIP: https://github.com/zamgo/PHPCoinAddress/archive/master.zip
-* Git clone: https://github.com/zamgo/PHPCoinAddress.git
-* Raw TXT: https://raw.github.com/zamgo/PHPCoinAddress/master/PHPCoinAddress.php
-* Bitcointalk thread: https://bitcointalk.org/index.php?topic=200042.0
-
 Example Usage:
 ==============
 <pre>
