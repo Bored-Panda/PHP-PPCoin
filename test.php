@@ -1,5 +1,4 @@
 <?php
-// PHPCoinAddress test
 
 $version = '0.2.0.pre';
 
