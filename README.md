@@ -7,20 +7,6 @@ PHPCoinAddress is intended to be easy to integrate into other PHP projects.
 
 Version 0.2.0.pre
 
-Example Usage:
-==============
-<pre>
-require_once 'PHPCoinAddress.php';
-// CoinAddress::set_debug(true);      // optional - show debugging messages
-// CoinAddress::set_reuse_keys(true); // optional - use same key for all addresses
-$coin = CoinAddress::bitcoin();  
-print 'public (base58): ' . $coin['public'] . "\n";
-print 'public (Hex)   : ' . $coin['public_hex'] . "\n";
-print 'private (WIF)  : ' . $coin['private'] . "\n";
-print 'private (Hex)  : ' . $coin['private_hex'] . "\n"; 
-</pre>
-* See [test.php](https://github.com/zamgo/PHPCoinAddress/blob/master/test.php) for more extensive tests.
-
 Notes:
 ==============
 * modded from https://gist.github.com/scintill/3549107
